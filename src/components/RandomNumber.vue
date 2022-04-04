@@ -2,6 +2,7 @@
 <h1>{{msg}}</h1>
 <button @click="genRanNum()">Generate random Number</button>
 <h2>{{random_number}}</h2>
+ <h1> This is updated directly</h1>
 </template>
 
 
